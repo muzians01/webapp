@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Djdngsr4Pw=",
+  "success": true,
+  "projectFilePath": "G:\\My Drive\\Interview\\Training\\Jenkins\\100.+Code\\100. Code\\23. Running unit tests in the pipeline\\webapp\\webapp\\webapp\\webapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mansari.BLR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\mansari.BLR\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\mansari.BLR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\mansari.BLR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
