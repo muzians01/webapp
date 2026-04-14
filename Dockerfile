@@ -9,6 +9,8 @@ RUN dotnet publish -c Release -o /app/publish
 # Stage 2: Runtime
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 
+ENV ASPNETCORE_URLS=http://+:80
+
 WORKDIR /app
 COPY --from=build /app/publish .
 
