@@ -52,3 +52,187 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+
+# =========================
+
+# Build Results
+
+# =========================
+
+bin/
+obj/
+out/
+publish/
+artifacts/
+
+# =========================
+
+# User-specific files
+
+# =========================
+
+*.user
+*.userosscache
+*.suo
+*.rsuser
+
+# =========================
+
+# Visual Studio
+
+# =========================
+
+.vs/
+*.vcxproj.user
+*.sln.docstates
+
+# =========================
+
+# Rider
+
+# =========================
+
+.idea/
+*.sln.iml
+
+# =========================
+
+# VS Code
+
+# =========================
+
+.vscode/
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+logs/
+*.tlog
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# NuGet
+
+# =========================
+
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# =========================
+
+# Test Results
+
+# =========================
+
+TestResults/
+*.trx
+
+# =========================
+
+# Coverage
+
+# =========================
+
+coverage/
+*.coverage
+*.coveragexml
+
+# =========================
+
+# Secrets / Config
+
+# =========================
+
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# =========================
+
+# Azure / Publish
+
+# =========================
+
+*.PublishSettings
+*.pubxml
+*.publishproj
+
+# =========================
+
+# Docker
+
+# =========================
+
+docker-compose.override.yml
+
+# =========================
+
+# Entity Framework
+
+# =========================
+
+Migrations/*/*.Designer.cs
+
+# =========================
+
+# Node (if frontend exists)
+
+# =========================
+
+node_modules/
+dist/
+npm-debug.log*
+yarn-error.log*
+
+# =========================
+
+# Temporary files
+
+# =========================
+
+*.tmp
+*.temp
+*.bak
+
+# =========================
+
+# Resharper
+
+# =========================
+
+_ReSharper*/
+*.DotSettings.user
+
+# =========================
+
+# SQL Server
+
+# =========================
+
+*.mdf
+*.ldf
+
+# =========================
+
+# Backup & old files
+
+# =========================
+
+*.old
+*.orig
